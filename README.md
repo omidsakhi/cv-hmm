@@ -9,7 +9,7 @@ hiddem markov models, hmm,  opencv, cvhmm, opencv-hmm
 First we define Transition, Emission
 and Initial Probabilities of the model
 
-
+```
 TRANS:
 0.5 0.5 0
 0 0.7 0.3
@@ -170,3 +170,4 @@ INIT:
 
 
 done.
+```
